@@ -1,0 +1,15 @@
+Projeto de faculdade.
+
+Programa de ordenação em c utilizando os dados de incêndio retirados da seguinte fonte: https://dataserver-coids.inpe.br/queimadas/queimadas/focos/csv/anual/EstadosBr_sat_ref/.
+
+Para o programa gerar o .csv ordenado, o .csv não ordenado precisa estar no mesmo mesma pasta do main. O arquivo ordenado que será criado também se encontrará na pasta do main.
+
+O usuário ira decidir entre 6 opções de ordenação, e com base nessa escolha, o arquivo ordenado será gerado. No console também aparecerá todas as informações de trocas realizadas para ordenar, tempo de execução e complexidade.
+
+
+Quem colaborou com o projeto, fazendo o código e a documentação:
+Leonardo Pereira Ribeiro, Lucas da Silva Rocha, Rafael Pedrosa dos Santos
+
+Obrigado por ler :D
+
+
